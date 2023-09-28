@@ -1,0 +1,17 @@
+ <!DOCTYPE html>
+ <html>
+    <title>Personal Profile Page</title>
+ <h1>About Me</h1>
+ <p>My name is Kalu James  , am a soldier of the Nigeria airforce love reading and learning  </p>
+ <ul>
+    <h1>My hobbies</h1>
+    <li>I love cooking</li>
+    <li>I love cleaning</li>
+
+    <ol>
+        <h2>A few key achievements or milestones</h2>
+        <li>I currently started a tech training which is front end developer</li>
+        <p><strong>Front end Engineer</strong></p>
+        <a href="COMMIT_EDITMSG">new page</a>
+        <em>Great learning</em>
+ </html>
