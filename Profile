@@ -9,8 +9,8 @@
     <li>I love cleaning</li>
 
     <ol>
-        <h2>A few key achievements or milestones</h2>
-        <li>I currently started a tech training which is front end developer</li>
+        <h2>key achievements</h2>
+        <li>being able to take care of my family</li>
         <p><strong>Front end Engineer</strong></p>
         <a href="COMMIT_EDITMSG">new page</a>
         <em>Great learning</em>
