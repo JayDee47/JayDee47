@@ -2,7 +2,7 @@
  <html>
     <title>Personal Profile Page</title>
  <h1>About Me</h1>
- <p>My name is Kalu James  , am a soldier of the Nigeria airforce love reading and learning  </p>
+  <p>My name is Kalu James  , am a soldier of the Nigeria airforce love reading and learning </p>
  <ul>
     <h1>My hobbies</h1>
     <li>I love cooking</li>
